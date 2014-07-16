@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="CR"/>
+      <psName name="softhyphen"/>
+      <psName name="IJ"/>
+      <psName name="ij"/>
+      <psName name="Ldot"/>
+      <psName name="ldot"/>
+      <psName name="Wcircumflex"/>
+      <psName name="wcircumflex"/>
+      <psName name="Ycircumflex"/>
+      <psName name="ycircumflex"/>
+      <psName name="Wgrave"/>
+      <psName name="wgrave"/>
+      <psName name="Wacute"/>
+      <psName name="wacute"/>
+      <psName name="Wdieresis"/>
+      <psName name="wdieresis"/>
+      <psName name="Ygrave"/>
+      <psName name="ygrave"/>
+      <psName name="Euro"/>
+      <psName name="emptyset"/>
+      <psName name="NULL"/>
+      <psName name="zero.dnom"/>
+      <psName name="one.dnom"/>
+      <psName name="two.dnom"/>
+      <psName name="three.dnom"/>
+      <psName name="four.dnom"/>
+      <psName name="zero.numr"/>
+      <psName name="one.numr"/>
+      <psName name="three.numr"/>
+      <psName name="nbspace"/>
+    </extraNames>
+  </post>
+
+</ttFont>
